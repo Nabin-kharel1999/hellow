@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    margin:center;
+    background-color:green; 
+
+}
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+img{
+    width: 1100px;
+    margin: 900px;
+    margin-left: 200px;
+    height: 300px;
+}
